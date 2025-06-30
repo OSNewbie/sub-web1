@@ -232,7 +232,7 @@ export default {
           Trojan: "trojan",
           Surge3: "surge&ver=3",
         },
-        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "http://[2a0e:6a80:3:27e::3971:3f08]:25500/sub?" }],
         remoteConfig: [
           {
             label: "universal",
